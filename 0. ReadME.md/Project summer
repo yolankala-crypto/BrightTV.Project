@@ -1,1 +1,18 @@
+Client: BrightTV
+Goal: Help the CEO grow the company's subscription base by providing data-driven insights to the Customer Value Management (CVM) team.
+The Ask: Analyze a dataset of user profiles and viewer transactions to prepare a 20-minute presentation covering four key areas:
 
+User & Usage Trends — Understand who BrightTV's subscribers are and how they're engaging with the platform.
+Factors Influencing Consumption — Identify what drives viewing behavior (e.g., time of day, content type, device, demographics).
+Content Recommendations for Low-Consumption Days — Suggest what content could boost engagement on days when viewership dips.
+Subscriber Growth Initiatives — Recommend strategies to attract new users and grow the overall subscriber base.
+
+Key Data Notes:
+
+Timestamps are in UTC and need to be converted to South African time (SAST, UTC+2)
+Each row in the dataset represents one viewing session (not one user)
+Additional external data to enrich the analysis is encouraged
+
+Deliverable: A polished, insight-driven presentation ready to be presented to the BrightTV CEO and CVM team.
+
+Once you upload the dataset, I can run the full analysis and build the presentation. Would you like to go ahead and attach it?
